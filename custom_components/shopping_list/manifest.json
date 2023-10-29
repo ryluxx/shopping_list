@@ -3,7 +3,9 @@
   "name": "Shopping List",
   "documentation": "https://www.home-assistant.io/integrations/shopping_list",
   "dependencies": ["http"],
-  "codeowners": [],
+  "codeowners": [
+    "@ryluxx"
+  ],
   "config_flow": true,
   "quality_scale": "internal",
   "version": "0.7"
